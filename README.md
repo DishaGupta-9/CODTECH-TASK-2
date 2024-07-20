@@ -2,6 +2,8 @@
 
 
 # Interactive Quiz Application
+![image](https://github.com/user-attachments/assets/1d728c55-4f3d-4538-ad4b-dfc171dc2068)
+
 
 Welcome to the Interactive Quiz Application! This project is a simple yet engaging quiz app that tests users' knowledge across various topics. It's built with HTML, CSS, and JavaScript, making it easy to understand and extend.
 
